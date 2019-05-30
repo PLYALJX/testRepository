@@ -1,6 +1,8 @@
 package com.plyaljx.test;
 
 public class Test {
-	void m1() {}
-	void m2() {}
+	int m1(int i) {
+		return i;
+	}
+	void m3() {}
 }
